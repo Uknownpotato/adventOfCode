@@ -1,0 +1,44 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Java
+*.class
+*.jar
+target/
+
+# C/C++
+*.o
+*.out
+a.out
+
+# Build artifacts
+dist/
+build/
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
